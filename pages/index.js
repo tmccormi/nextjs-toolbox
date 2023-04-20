@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Header from "@components/Header";
+import MainBody from "@components/MainBody";
 import Footer from "@components/Footer";
 import FeedbackForm from "@components/FeedbackForm";
 
@@ -14,8 +15,9 @@ export default function Home() {
       <main>
         <Header title="CCPPC Web Chat POC 2" />
         <hr />
+        <MainBody />
         <p className="description">
-          Here's an example of a Netlify Form! When you fill this out, the
+          When you fill this out, the
           submissions can be found in the Netlify Admin site.
         </p>
         <FeedbackForm />

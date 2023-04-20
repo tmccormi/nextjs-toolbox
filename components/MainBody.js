@@ -9,7 +9,8 @@ export default function MainBody ({MainBody}) {
           <li><strong>Same Pricing Nationwide</strong></li>
         </ul>
       </p>
-      <h2>An affordable national health plan that includes all of the following</h2>
+      <h2>The Basic Plan includes the following</h2>
+      <p>The Membership rate of $79 per month/per member in the Complete Care Base Health Plan can stand alone. (Agreements are one year renewable and, if paid annually, the cost is $900)</p>
       <div class="table">
       <div class="table-row">
         <div class="table-cell">4 Million PCHS Physicians and Hospitals</div>
@@ -34,6 +35,14 @@ export default function MainBody ({MainBody}) {
         </div>
       <div class="table-row">
          <div class="table-cell">Roadside Assistance</div>
+      </div>
+      <h2>Complete Care Plan adds the following</h2>
+      <p>Add Indemnity and Stop Loss and Health Savings Card as noted above, for a combined benefits rate of $417 per month/per member. This can be used for primary health care or as secondary coverage with other major medical plans. (Paid annually the total cost is $4740).</p>
+      <div class="table-row">
+        <div class="table-cell">Indemnity and Stop Loss Insurance</div>
+      </div>
+      <div class="table-row">
+        <div class="table-cell">Funded Health Savings Card</div>
       </div>
     </div>
         </>

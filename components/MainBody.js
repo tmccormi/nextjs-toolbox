@@ -37,9 +37,12 @@ export default function MainBody ({MainBody}) {
          <div class="table-cell">Roadside Assistance</div>
       </div>
       <h2>Complete Care Plan adds the following</h2>
-      <p>Add Indemnity and Stop Loss and Health Savings Card as noted above, for a combined benefits rate of $417 per month/per member. This can be used for primary health care or as secondary coverage with other major medical plans. (Paid annually the total cost is $4740).</p>
+      <p>Add Indemnity, Stop Loss and Health Savings Card for a combined benefits rate of $417 per month/per member. This can be used for primary health care or as secondary coverage with other major medical plans. (Paid annually the total cost is $4740).</p>
       <div class="table-row">
-        <div class="table-cell">Indemnity and Stop Loss Insurance</div>
+        <div class="table-cell">Indemnity Insurance from Crum and Forster for Inpatient and Outpatient Services $0-$50,000</div>
+      </div>
+      <div class="table-row">
+        <div class="table-cell">Stop Loss Insurance from Odyssey Re for $50,000 to Unlimited at 90% 1st year and 100% thereafter</div>
       </div>
       <div class="table-row">
         <div class="table-cell">Funded Health Savings Card</div>

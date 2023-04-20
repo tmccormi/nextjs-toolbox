@@ -17,8 +17,7 @@ export default function Home() {
         <hr />
         <MainBody />
         <p className="description">
-          When you fill this out, the
-          submissions can be found in the Netlify Admin site.
+          Questions, ask our very intelligent AI Chatbot!
         </p>
         <FeedbackForm />
       </main>

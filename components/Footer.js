@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <img src="/netlify-monogram.svg" alt="Netlify Logo" className={styles.logo} />
+        <a href="https://tbt.org">We are part of Tomorrow's Bread Today Association</a>
       </footer>
     </>
   )

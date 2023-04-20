@@ -9,7 +9,7 @@ export default function Header({ title }) {
         <li><strong>A-Rated Insurers</strong></li>
         <li><strong>Same Pricing Nationwide</strong></li>
       </p>
-      <h2>An affordable national health plan that includes all of the following
+      <h2>An affordable national health plan that includes all of the following</h2>
       <div class="table">
   <div class="table-row">
     <div class="table-cell">4 Million PCHS Physicians and Hospitals</div>
